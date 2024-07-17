@@ -1,3 +1,10 @@
+## Video Example
+Here is a video demonstrating the project:
+
+[Watch the Video](public/react_countdown_timer.mp4)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

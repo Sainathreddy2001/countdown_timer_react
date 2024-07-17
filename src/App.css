@@ -1,0 +1,41 @@
+.countdown-container {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.countdown-title {
+  font-size: 24px;
+  font-weight: bold;
+  color: #2c3e50; /* Midnight Blue */
+}
+
+.countdown-subtitle {
+  font-size: 18px;
+  color: #34495e; /* Wet Asphalt */
+  margin-top: 10px;
+}
+
+.countdown-timer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.countdown-item {
+  margin: 0 10px;
+  text-align: center;
+}
+
+.countdown-number {
+  display: block;
+  font-size: 36px;
+  font-weight: bold;
+  color: #2980b9; /* Belize Hole */
+}
+
+.countdown-label {
+  font-size: 14px;
+  color: #3498db; /* Peter River */
+  margin-top: 5px;
+}

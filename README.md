@@ -1,6 +1,6 @@
 # Demo Image of Project
 Here is the demo image of project
-[Project_Image](public/count_down.png)
+![Project_Image](public/count_down.png)
 
 ## Video Example
 Here is a video demonstrating the project:
